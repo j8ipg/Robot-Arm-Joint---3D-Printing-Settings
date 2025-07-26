@@ -48,6 +48,8 @@ PLA+ was selected due to the following advantages:
 🟢 Balanced for strong layer adhesion while keeping the print time reasonable.
 
 <img width="1637" height="957" alt="Screenshot 2025-07-26 154956" src="https://github.com/user-attachments/assets/e91688f7-4526-410f-ba93-c93fb64491f8" />
+
+
 ## Support Configuration
 
 - **Supports Enabled**: Auto-generated at 30° overhang threshold.
