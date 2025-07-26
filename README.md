@@ -23,6 +23,8 @@ PLA+ was selected due to the following advantages:
 
 🟢 These settings ensure tight layer bonding and improved dimensional accuracy.
 
+
+<img width="1609" height="968" alt="Screenshot 2025-07-26 154935" src="https://github.com/user-attachments/assets/e84fa071-c805-4947-8544-38d640aa49a0" />
 ## Strength-Oriented Settings
 
 - **Wall Loops**: 3 → Increases overall wall strength.
@@ -31,6 +33,9 @@ PLA+ was selected due to the following advantages:
 - **Internal Solid Infill Line Width**: 0.44 mm → Enhances internal bonding.
 
 🟢 Designed to create a robust print without going full 100% infill.
+
+
+<img width="1624" height="974" alt="Screenshot 2025-07-26 154946" src="https://github.com/user-attachments/assets/bea6064a-ff9d-439c-bb4a-d7609364e48a" />
 
 ## Speed Optimization
 
@@ -42,6 +47,7 @@ PLA+ was selected due to the following advantages:
 
 🟢 Balanced for strong layer adhesion while keeping the print time reasonable.
 
+<img width="1637" height="957" alt="Screenshot 2025-07-26 154956" src="https://github.com/user-attachments/assets/e91688f7-4526-410f-ba93-c93fb64491f8" />
 ## Support Configuration
 
 - **Supports Enabled**: Auto-generated at 30° overhang threshold.
@@ -49,6 +55,9 @@ PLA+ was selected due to the following advantages:
 - **Top/Bottom Contact**: Easy removal without surface damage.
 
 🟢 Ensures stable prints for complex geometries while keeping cleanup easy.
+
+<img width="1629" height="922" alt="Screenshot 2025-07-26 155042" src="https://github.com/user-attachments/assets/ad7099ff-4682-4edd-86ea-8789b462b2b1" />
+
 
 ## Summary
 
