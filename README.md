@@ -14,6 +14,7 @@ PLA+ was selected due to the following advantages:
 
 ⚠️ For extreme durability or functional mechanical parts, switching to **PETG-CF** or **Nylon-CF** is recommended (requires a hardened nozzle).
 
+
 ## Print Quality Settings
 
 - **Layer Height**: 0.16 mm → A good balance of precision and strength.
@@ -24,7 +25,9 @@ PLA+ was selected due to the following advantages:
 🟢 These settings ensure tight layer bonding and improved dimensional accuracy.
 
 
-<img width="1609" height="968" alt="Screenshot 2025-07-26 154935" src="https://github.com/user-attachments/assets/e84fa071-c805-4947-8544-38d640aa49a0" />
+<img width="1609" height="968" alt="Screenshot 2025-07-26 154935" src="https://github.com/user-attachments/assets/a4b6a16d-9778-4b95-b10e-bf04d3bc2276" />
+
+  
 ## Strength-Oriented Settings
 
 - **Wall Loops**: 3 → Increases overall wall strength.
